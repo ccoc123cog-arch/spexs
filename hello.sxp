@@ -1,0 +1,12 @@
+# Простая программа на Spexs
+print("Hello, Spexs!")
+
+func greet(name) {
+    return "Привет, " + name + "!"
+}
+
+print(greet("Мир"))
+
+var x = 10
+var y = 20
+print("Сумма: " + (x + y))
